@@ -26,7 +26,7 @@ public class Cheers {
                 System.out.println(letter + ": " + letter + "!");
                 i++;
             }
-
+            System.out.println("What does that spell?");
             while(j < num){
                 System.out.println(word + "!!!");
                 j++;

@@ -33,11 +33,7 @@ public class Collatz {
 			}
 			count = 1;
 			}
-
-		if(mode.equals("v")){
-				System.out.println();
-		}
-		
+			
 		System.out.println("Every one of the first " + N 
 							+ " hailstone sequences reached 1.");
 	}
